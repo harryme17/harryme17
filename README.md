@@ -66,7 +66,7 @@ I am a Full Stack Developer with a passion for building scalable web application
 ### 🤝🏻 Get in Touch
 
 <p align="center">
-  <a href="https://linkedin.com/in/harryme17">
+  <a href="https://linkedin.com/in/harshal-menge">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mengeharshal1703@gmail.com">
