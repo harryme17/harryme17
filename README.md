@@ -16,7 +16,7 @@ I am a Full Stack Developer with a passion for building scalable web application
 - 🌱 I’m currently learning **Advanced .NET, Entity Framework & AI Concepts like RAG/GAN**
 - 👯 I’m looking to collaborate on **open-source projects, AI-integrated apps, and PHP/.NET tools**
 - 💬 Ask me about **React, .NET, PHP, C#, SQL, and clean code architecture**
-- 📫 How to reach me: **harryme17@gmail.com**
+- 📫 How to reach me: **mengeharshal1703@gmail.com**
 - ⚡ Fun fact: **I love blending tech with creativity – from coding utilities to designing flat-style animations**
 
 ---
