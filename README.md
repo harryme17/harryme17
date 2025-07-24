@@ -54,7 +54,7 @@ I am a Full Stack Developer with a passion for building scalable web application
 
 <p align="center">
   <a href="https://github.com/harryme17/Advanced-Text-Style-Generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harryme17&repo=Robo17&theme=copilot" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harryme17&repo=Advanced-Text-Style-Generator&theme=copilot" />
   </a>
   <p align="center">
   <a href="https://github.com/harryme17/Robo17">
