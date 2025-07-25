@@ -56,6 +56,9 @@ I am a Full Stack Developer with a passion for building scalable web application
   <a href="https://github.com/harryme17/Advanced-Text-Style-Generator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harryme17&repo=Advanced-Text-Style-Generator&theme=copilot" />
   </a>
+  <a href="https://github.com/harryme17/Advanced-text-styler-extension">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harryme17&repo=advanced-text-styler-extension&theme=copilot" />
+  </a>
   <p align="center">
   <a href="https://github.com/harryme17/Robo17">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harryme17&repo=Robo17&theme=copilot" />
